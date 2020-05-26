@@ -1,4 +1,4 @@
-Open ERP System :- Odoo 11 Version 
+Open ERP System :- Odoo 12 Version 
 
 Installation 
 ============
@@ -6,7 +6,7 @@ Install the Application => Apps -> Vendor Purchase History (Technical Name: vend
 
 Version
 ========
-	Odoo 11 version
+	Odoo 12 version
 
 Module Configuration Guideline
 ==============================
